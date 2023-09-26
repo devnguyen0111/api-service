@@ -31,7 +31,7 @@ app.get("/api/chamngon", (req, res) => {
   res.json(data[index]);
 });
 
-app.get("/api/thinh", (req, res) => {
+app.get("/api/thathinh", (req, res) => {
   const data = JSON.parse(path.resolve("./assets", "thinh.json"), "utf-8");
   const index = Math.floor(Math.random() * data.length);
   res.statusCode = 200;
