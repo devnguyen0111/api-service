@@ -32,7 +32,7 @@ app.get("/api/chamngon", (req, res) => {
 });
 
 app.get("/api/thathinh", (req, res) => {
-  const data = JSON.parse(path.resolve("./assets", "thinh.json"), "utf-8");
+  const data = JSON.parse(path.resolve("./assets", "thathinh.json"), "utf-8");
   const index = Math.floor(Math.random() * data.length);
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json");
