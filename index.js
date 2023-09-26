@@ -1,13 +1,10 @@
 const express = require("express");
-const serverless = require("serverless-http");
 
 const app = express();
 
 app.use(express.json());
 
 app.use(express.static("public"));
-
-const servlerlessHandler = serverless(app);
 
 if (process.platform == "win32") {
   const port = 3000;
@@ -16,4 +13,4 @@ if (process.platform == "win32") {
   });
 }
 
-export default servlerlessHandler;
+export default app;
