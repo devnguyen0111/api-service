@@ -1,0 +1,38 @@
+body {
+  background: linear-gradient(45deg, #ff6b6b, #4a90e2);
+  background-size: 400% 400%;
+  animation: gradientAnimation 15s infinite;
+}
+
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.api-buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.api-button {
+  margin-right: 10px;
+}

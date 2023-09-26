@@ -3,12 +3,75 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>API-Service</title>
+    <title>API Documentation</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./assets/style.css" />
   </head>
   <body>
-    <h1>API-Service</h1>
-    <p>
-      <a href="/api">API-Service</a>
-    </p>
+    <div class="container mt-5">
+      <h1>API Service</h1>
+      <div class="api-buttons">
+        <button class="btn btn-primary api-button" data-api="api1">
+          API 1
+        </button>
+        <button class="btn btn-primary api-button" data-api="api2">
+          API 2
+        </button>
+        <button class="btn btn-primary api-button" data-api="api3">
+          API 3
+        </button>
+      </div>
+      <div class="mt-3" id="api-details">
+        <!-- API details will be displayed here -->
+      </div>
+    </div>
+
+    <script>
+      // Dummy API data
+      const apiData = {
+        api1: {
+          name: "API 1",
+          description:
+            "This is API quotes. It fetch and get randome quotes in databse and show it on screen.",
+          usage: "To use this API, make a GET request to /api/quotes",
+          url: "/api/quotes",
+        },
+        api2: {
+          name: "API 2",
+          description:
+            "This is API maxim (châm ngôn). It fetch and get randome maxim in databse and show it on screen.",
+          usage: "To use this API, make a GET request to /api/chamngon",
+          url: "/api/chamngon",
+        },
+        api3: {
+          name: "API 3",
+          description:
+            "This is API love language (thả thính). It fetch and get randome maxim in databse and show it on screen.",
+          usage: "To use this API, make a GET request to /api/thathinh",
+          url: "/api/thathinh",
+        },
+      };
+
+      // Function to display API details when a link is clicked
+      $(".api-button").click(function () {
+        const apiName = $(this).data("api");
+        const apiDetails = apiData[apiName];
+
+        const detailsHtml = `
+                <h2>${apiDetails.name}</h2>
+                <p>${apiDetails.description}</p>
+                <p><strong>Usage:</strong> ${apiDetails.usage}</p>
+                <a href="${apiDetails.url}">Link to API</a>
+            `;
+
+        $("#api-details").html(detailsHtml);
+      });
+    </script>
   </body>
 </html>
