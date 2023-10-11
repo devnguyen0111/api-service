@@ -2,6 +2,8 @@ const express = require("express");
 const { readFileSync } = require("fs");
 const path = require("path");
 const app = express.Router();
+const translate = require("translate-google");
+const ISO6391 = require("iso-639-1");
 
 app.get("/api", (req, res) => {
   res.statusCode = 200;
@@ -39,6 +41,27 @@ app.get("/api/thathinh", (req, res) => {
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json");
   res.json(data[index]);
+});
+
+app.get("/api/translate/:lang/:text", async (req, res) => {
+  const text = req.params.text;
+  const lang = req.params.lang;
+  translate(text, { to: lang })
+    .then((results) => {
+      const langName = ISO6391.getName(lang) || lang;
+      res.statusCode = 200;
+      res.send({
+        text: text,
+        lang: langName,
+        result: results,
+      });
+    })
+    .catch((error) => {
+      res.statusCode = 500;
+      res.send({
+        error: error,
+      });
+    });
 });
 
 export default app;
