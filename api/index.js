@@ -64,17 +64,13 @@ app.get("/api/translate/:lang/:text", async (req, res) => {
     });
 });
 
-const data = JSON.parse(
+const quizData = JSON.parse(
   readFileSync(path.resolve("./assets", "question.json"), "utf-8")
 );
 
 app.get("/api/quiz", (req, res) => {
   const randomIndex = Math.floor(Math.random() * quizData.length);
-  res.send({
-    question: quizData[randomIndex].question,
-    options: quizData[randomIndex].options,
-    answer: quizData[randomIndex].answer,
-  });
+  res.json(quizData[randomIndex]);
 });
 
 export default app;
