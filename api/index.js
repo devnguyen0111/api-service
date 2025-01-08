@@ -4,7 +4,6 @@ const path = require("path");
 const app = express.Router();
 const translate = require("translate-google");
 const ISO6391 = require("iso-639-1");
-const fs = require("fs");
 
 app.get("/api", (req, res) => {
   res.statusCode = 200;
@@ -65,7 +64,9 @@ app.get("/api/translate/:lang/:text", async (req, res) => {
     });
 });
 
-const quizData = JSON.parse(fs.readFileSync("../assets/question.json", "utf8"));
+const data = JSON.parse(
+  readFileSync(path.resolve("./assets", "question.json"), "utf-8")
+);
 
 app.get("/api/quiz", (req, res) => {
   const randomIndex = Math.floor(Math.random() * quizData.length);
