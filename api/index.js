@@ -70,7 +70,11 @@ const data = JSON.parse(
 
 app.get("/api/quiz", (req, res) => {
   const randomIndex = Math.floor(Math.random() * quizData.length);
-  res.json(quizData[randomIndex]);
+  res.send({
+    question: quizData[randomIndex].question,
+    options: quizData[randomIndex].options,
+    answer: quizData[randomIndex].answer,
+  });
 });
 
 export default app;
