@@ -1,0 +1,227 @@
+[
+  {
+    "question": "What is the capital of Germany?",
+    "answers": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answers": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answers": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answers": ["O2", "CO2", "H2O", "NaCl"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which continent is the Sahara Desert located in?",
+    "answers": ["Asia", "Africa", "Australia", "South America"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answers": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "answers": ["0", "1", "2", "3"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "answers": ["Brazil", "China", "United Kingdom", "Russia"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the square root of 64?",
+    "answers": ["6", "7", "8", "9"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answers": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "answers": ["Helium", "Hydrogen", "Oxygen", "Nitrogen"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answers": ["Dollar", "Euro", "Yen", "Won"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who discovered gravity?",
+    "answers": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Nikola Tesla"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "answers": ["Rome", "Venice", "Milan", "Florence"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which planet is closest to the sun?",
+    "answers": ["Venus", "Earth", "Mercury", "Mars"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "answers": ["Tomato", "Avocado", "Onion", "Pepper"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who is known as the 'Father of Computers'?",
+    "answers": [
+      "Alan Turing",
+      "Charles Babbage",
+      "John von Neumann",
+      "Steve Jobs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "answers": ["4", "5", "6", "8"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answers": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answers": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sport is known as the 'king of sports'?",
+    "answers": ["Basketball", "Soccer", "Tennis", "Cricket"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the boiling point of water at sea level in Celsius?",
+    "answers": ["90", "95", "100", "105"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who wrote 'The Origin of Species'?",
+    "answers": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Isaac Newton",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the largest ocean on Earth?",
+    "answers": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which metal is used to make coins?",
+    "answers": ["Iron", "Nickel", "Gold", "Tin"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answers": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does DNA stand for?",
+    "answers": [
+      "Deoxyribonucleic Acid",
+      "Dinucleotide Acid",
+      "Digital Nucleic Acid",
+      "Deoxynuclear Acid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is 9 x 9?",
+    "answers": ["72", "81", "90", "99"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "answers": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Donatello"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the smallest country in the world?",
+    "answers": ["Monaco", "San Marino", "Liechtenstein", "Vatican City"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the capital of China?",
+    "answers": ["Shanghai", "Beijing", "Hong Kong", "Chengdu"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "answers": ["Gold", "Iron", "Diamond", "Quartz"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which planet is known as the Morning Star?",
+    "answers": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the largest bone in the human body?",
+    "answers": ["Femur", "Tibia", "Skull", "Spine"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answers": ["China", "Korea", "Japan", "Thailand"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main gas in the Earth's atmosphere?",
+    "answers": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "answers": ["3x10^6 m/s", "3x10^8 m/s", "3x10^10 m/s", "3x10^12 m/s"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "answers": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Marie Curie"
+    ],
+    "correctIndex": 1
+  }
+]
