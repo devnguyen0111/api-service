@@ -1,0 +1,402 @@
+[
+  {
+    "questionId": 1,
+    "isAnswered": false,
+    "question": "What is 2 + 2?",
+    "answer": ["3", "4", "5", "6"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 2,
+    "isAnswered": false,
+    "question": "What color is the sky on a clear day?",
+    "answer": ["Blue", "Green", "Yellow", "Red"],
+    "correctIndexAnswer": 0,
+    "level": 1
+  },
+  {
+    "questionId": 3,
+    "isAnswered": false,
+    "question": "What is the capital of France?",
+    "answer": ["Paris", "London", "Berlin", "Madrid"],
+    "correctIndexAnswer": 0,
+    "level": 1
+  },
+  {
+    "questionId": 4,
+    "isAnswered": false,
+    "question": "What is 5 x 5?",
+    "answer": ["20", "25", "30", "35"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 5,
+    "isAnswered": false,
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "answer": ["Lion", "Tiger", "Elephant", "Giraffe"],
+    "correctIndexAnswer": 0,
+    "level": 1
+  },
+  {
+    "questionId": 6,
+    "isAnswered": false,
+    "question": "What is the color of a ripe banana?",
+    "answer": ["Red", "Green", "Yellow", "Purple"],
+    "correctIndexAnswer": 2,
+    "level": 1
+  },
+  {
+    "questionId": 7,
+    "isAnswered": false,
+    "question": "How many legs does a spider have?",
+    "answer": ["6", "8", "10", "12"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 8,
+    "isAnswered": false,
+    "question": "Which planet is known as the Red Planet?",
+    "answer": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 9,
+    "isAnswered": false,
+    "question": "What is the largest mammal in the world?",
+    "answer": ["Elephant", "Blue Whale", "Giraffe", "Rhino"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 10,
+    "isAnswered": false,
+    "question": "Which shape has four equal sides?",
+    "answer": ["Rectangle", "Triangle", "Square", "Pentagon"],
+    "correctIndexAnswer": 2,
+    "level": 1
+  },
+  {
+    "questionId": 11,
+    "isAnswered": false,
+    "question": "What is the capital of the United Kingdom?",
+    "answer": ["Paris", "London", "Dublin", "Edinburgh"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 12,
+    "isAnswered": false,
+    "question": "What is the primary ingredient in bread?",
+    "answer": ["Sugar", "Flour", "Milk", "Eggs"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 13,
+    "isAnswered": false,
+    "question": "How many continents are there?",
+    "answer": ["5", "6", "7", "8"],
+    "correctIndexAnswer": 2,
+    "level": 1
+  },
+  {
+    "questionId": 14,
+    "isAnswered": false,
+    "question": "What is the freezing point of water in Celsius?",
+    "answer": ["0", "32", "-10", "100"],
+    "correctIndexAnswer": 0,
+    "level": 1
+  },
+  {
+    "questionId": 15,
+    "isAnswered": false,
+    "question": "What type of animal is a dolphin?",
+    "answer": ["Fish", "Mammal", "Reptile", "Bird"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 16,
+    "isAnswered": false,
+    "question": "What do bees make?",
+    "answer": ["Wax", "Honey", "Nectar", "Pollen"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 17,
+    "isAnswered": false,
+    "question": "Which organ pumps blood in the body?",
+    "answer": ["Brain", "Lungs", "Heart", "Liver"],
+    "correctIndexAnswer": 2,
+    "level": 1
+  },
+  {
+    "questionId": 18,
+    "isAnswered": false,
+    "question": "What is the largest planet in our solar system?",
+    "answer": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctIndexAnswer": 2,
+    "level": 1
+  },
+  {
+    "questionId": 19,
+    "isAnswered": false,
+    "question": "What is the color of grass?",
+    "answer": ["Blue", "Yellow", "Green", "Red"],
+    "correctIndexAnswer": 2,
+    "level": 1
+  },
+  {
+    "questionId": 20,
+    "isAnswered": false,
+    "question": "How many days are in a week?",
+    "answer": ["5", "6", "7", "8"],
+    "correctIndexAnswer": 2,
+    "level": 1
+  },
+  {
+    "questionId": 21,
+    "isAnswered": false,
+    "question": "What is the smallest unit of life?",
+    "answer": ["Atom", "Cell", "Molecule", "Organ"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 22,
+    "isAnswered": false,
+    "question": "What is the name of the longest river in the world?",
+    "answer": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 23,
+    "isAnswered": false,
+    "question": "Which month has 28 days?",
+    "answer": ["February", "April", "June", "All of them"],
+    "correctIndexAnswer": 3,
+    "level": 1
+  },
+  {
+    "questionId": 24,
+    "isAnswered": false,
+    "question": "Which animal is known for its black and white stripes?",
+    "answer": ["Tiger", "Zebra", "Panda", "Skunk"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 25,
+    "isAnswered": false,
+    "question": "What do plants use for photosynthesis?",
+    "answer": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 26,
+    "isAnswered": false,
+    "question": "Which continent is the Sahara Desert located on?",
+    "answer": ["Asia", "Africa", "Australia", "South America"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 27,
+    "isAnswered": false,
+    "question": "How many hours are in a day?",
+    "answer": ["12", "24", "36", "48"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 28,
+    "isAnswered": false,
+    "question": "What is the main source of energy for life on Earth?",
+    "answer": ["The Moon", "The Sun", "Volcanoes", "Wind"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 29,
+    "isAnswered": false,
+    "question": "What is the name of the process by which water turns into vapor?",
+    "answer": ["Condensation", "Evaporation", "Precipitation", "Sublimation"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 30,
+    "isAnswered": false,
+    "question": "Which bird is known for its colorful feathers and mimicry?",
+    "answer": ["Peacock", "Parrot", "Owl", "Crow"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 31,
+    "isAnswered": false,
+    "question": "What is H2O commonly known as?",
+    "answer": ["Salt", "Water", "Oxygen", "Acid"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 32,
+    "isAnswered": false,
+    "question": "Which fruit is known for having its seeds on the outside?",
+    "answer": ["Apple", "Strawberry", "Banana", "Orange"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 33,
+    "isAnswered": false,
+    "question": "Which of these is a primary color?",
+    "answer": ["Green", "Blue", "Purple", "Brown"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 34,
+    "isAnswered": false,
+    "question": "What does a thermometer measure?",
+    "answer": ["Weight", "Temperature", "Height", "Speed"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 35,
+    "isAnswered": false,
+    "question": "Which animal is known for building dams?",
+    "answer": ["Otter", "Beaver", "Bear", "Fox"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 36,
+    "isAnswered": false,
+    "question": "What do we call a baby cat?",
+    "answer": ["Pup", "Kitten", "Cub", "Chick"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 37,
+    "isAnswered": false,
+    "question": "What is the opposite of hot?",
+    "answer": ["Cold", "Warm", "Cool", "Boiling"],
+    "correctIndexAnswer": 0,
+    "level": 1
+  },
+  {
+    "questionId": 38,
+    "isAnswered": false,
+    "question": "What is the 5th month of the year?",
+    "answer": ["April", "May", "June", "July"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 39,
+    "isAnswered": false,
+    "question": "Which of these is a type of fish?",
+    "answer": ["Trout", "Eagle", "Lizard", "Sparrow"],
+    "correctIndexAnswer": 0,
+    "level": 1
+  },
+  {
+    "questionId": 40,
+    "isAnswered": false,
+    "question": "What is the color of the sun?",
+    "answer": ["Red", "Yellow", "Blue", "White"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 41,
+    "isAnswered": false,
+    "question": "Which shape has three sides?",
+    "answer": ["Rectangle", "Triangle", "Square", "Circle"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 42,
+    "isAnswered": false,
+    "question": "Which sea creature has eight legs?",
+    "answer": ["Shark", "Octopus", "Dolphin", "Jellyfish"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 43,
+    "isAnswered": false,
+    "question": "What is 10 - 7?",
+    "answer": ["1", "2", "3", "4"],
+    "correctIndexAnswer": 2,
+    "level": 1
+  },
+  {
+    "questionId": 44,
+    "isAnswered": false,
+    "question": "What do cows drink?",
+    "answer": ["Milk", "Water", "Juice", "Soda"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 45,
+    "isAnswered": false,
+    "question": "What is the capital of the USA?",
+    "answer": ["New York", "Los Angeles", "Washington, D.C.", "Chicago"],
+    "correctIndexAnswer": 2,
+    "level": 1
+  },
+  {
+    "questionId": 46,
+    "isAnswered": false,
+    "question": "How many wheels does a standard car have?",
+    "answer": ["2", "3", "4", "6"],
+    "correctIndexAnswer": 2,
+    "level": 1
+  },
+  {
+    "questionId": 47,
+    "isAnswered": false,
+    "question": "What is the capital of Japan?",
+    "answer": ["Seoul", "Tokyo", "Beijing", "Bangkok"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 48,
+    "isAnswered": false,
+    "question": "How many sides does a hexagon have?",
+    "answer": ["5", "6", "7", "8"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  },
+  {
+    "questionId": 49,
+    "isAnswered": false,
+    "question": "Which fruit is orange in color?",
+    "answer": ["Apple", "Banana", "Orange", "Grapes"],
+    "correctIndexAnswer": 2,
+    "level": 1
+  },
+  {
+    "questionId": 50,
+    "isAnswered": false,
+    "question": "What is the name of Earth's natural satellite?",
+    "answer": ["Sun", "Moon", "Mars", "Venus"],
+    "correctIndexAnswer": 1,
+    "level": 1
+  }
+]

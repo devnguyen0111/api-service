@@ -1,0 +1,467 @@
+[
+  {
+    "questionId": 1,
+    "isAnswered": false,
+    "question": "Which branch of mathematics is used to study the motion of celestial objects?",
+    "answer": ["Algebra", "Calculus", "Trigonometry", "Statistics"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 2,
+    "isAnswered": false,
+    "question": "What is the term for the ability of an atom to attract electrons in a bond?",
+    "answer": [
+      "Electronegativity",
+      "Ionization Energy",
+      "Electron Affinity",
+      "Atomic Radius"
+    ],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 3,
+    "isAnswered": false,
+    "question": "Which scientist proposed the general theory of relativity?",
+    "answer": [
+      "Isaac Newton",
+      "Nikola Tesla",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 4,
+    "isAnswered": false,
+    "question": "What is the powerhouse of the cell?",
+    "answer": ["Nucleus", "Mitochondria", "Ribosome", "Golgi Apparatus"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 5,
+    "isAnswered": false,
+    "question": "Which philosopher is known for the statement 'I think, therefore I am'?",
+    "answer": ["Plato", "Aristotle", "Rene Descartes", "John Locke"],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 6,
+    "isAnswered": false,
+    "question": "What is the capital city of the Roman Empire at its peak?",
+    "answer": ["Constantinople", "Rome", "Athens", "Alexandria"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 7,
+    "isAnswered": false,
+    "question": "Which particle in an atom has no electric charge?",
+    "answer": ["Proton", "Electron", "Neutron", "Photon"],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 8,
+    "isAnswered": false,
+    "question": "What is the primary gas found in the Earth's atmosphere?",
+    "answer": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 9,
+    "isAnswered": false,
+    "question": "Who is known as the father of modern computers?",
+    "answer": [
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann",
+      "Bill Gates"
+    ],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 10,
+    "isAnswered": false,
+    "question": "Which organ in the human body is responsible for filtering blood?",
+    "answer": ["Liver", "Heart", "Kidney", "Lungs"],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 11,
+    "isAnswered": false,
+    "question": "What is the name of the galaxy that contains our solar system?",
+    "answer": ["Andromeda", "Milky Way", "Sombrero", "Whirlpool"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 12,
+    "isAnswered": false,
+    "question": "Which chemical element has the highest melting point?",
+    "answer": ["Iron", "Tungsten", "Platinum", "Carbon"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 13,
+    "isAnswered": false,
+    "question": "What is the Heisenberg Uncertainty Principle related to?",
+    "answer": [
+      "Position and velocity",
+      "Energy and time",
+      "Momentum and mass",
+      "Wave-particle duality"
+    ],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 14,
+    "isAnswered": false,
+    "question": "Which empire built the Machu Picchu?",
+    "answer": ["Maya", "Aztec", "Inca", "Olmec"],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 15,
+    "isAnswered": false,
+    "question": "What is the approximate age of the Earth?",
+    "answer": [
+      "3.5 billion years",
+      "4.5 billion years",
+      "2.5 billion years",
+      "5.5 billion years"
+    ],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 16,
+    "isAnswered": false,
+    "question": "What is the term for a star explosion?",
+    "answer": ["Nova", "Supernova", "Nebula", "Black Hole"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 17,
+    "isAnswered": false,
+    "question": "What is the mathematical constant e approximately equal to?",
+    "answer": ["2.72", "3.14", "1.41", "1.62"],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 18,
+    "isAnswered": false,
+    "question": "What is the largest type of whale?",
+    "answer": ["Blue Whale", "Humpback Whale", "Sperm Whale", "Fin Whale"],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 19,
+    "isAnswered": false,
+    "question": "Which type of blood cell helps fight infection?",
+    "answer": ["Red Blood Cell", "Platelet", "White Blood Cell", "Plasma Cell"],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 20,
+    "isAnswered": false,
+    "question": "Which planet has the most moons?",
+    "answer": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctIndexAnswer": 3,
+    "level": 3
+  },
+  {
+    "questionId": 21,
+    "isAnswered": false,
+    "question": "What is the function of chlorophyll in plants?",
+    "answer": [
+      "Absorb water",
+      "Transport nutrients",
+      "Convert sunlight into energy",
+      "Strengthen cell walls"
+    ],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 22,
+    "isAnswered": false,
+    "question": "What is the study of fungi called?",
+    "answer": ["Botany", "Mycology", "Zoology", "Microbiology"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 23,
+    "isAnswered": false,
+    "question": "Which organelle is responsible for protein synthesis?",
+    "answer": ["Mitochondria", "Ribosome", "Golgi Apparatus", "Nucleus"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 24,
+    "isAnswered": false,
+    "question": "What is the capital of Australia?",
+    "answer": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 25,
+    "isAnswered": false,
+    "question": "Which river is the longest in the world?",
+    "answer": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 26,
+    "isAnswered": false,
+    "question": "Which scientist developed the laws of planetary motion?",
+    "answer": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Nicolaus Copernicus"
+    ],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 27,
+    "isAnswered": false,
+    "question": "What is the smallest unit of life?",
+    "answer": ["Atom", "Cell", "Tissue", "Molecule"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 28,
+    "isAnswered": false,
+    "question": "Which organ produces insulin in the human body?",
+    "answer": ["Liver", "Pancreas", "Kidney", "Spleen"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 29,
+    "isAnswered": false,
+    "question": "What is the chemical symbol for gold?",
+    "answer": ["Au", "Ag", "Pb", "Fe"],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 30,
+    "isAnswered": false,
+    "question": "Which planet is the hottest in the solar system?",
+    "answer": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 31,
+    "isAnswered": false,
+    "question": "What is the main gas found in the Sun?",
+    "answer": ["Oxygen", "Hydrogen", "Helium", "Nitrogen"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 32,
+    "isAnswered": false,
+    "question": "Who discovered penicillin?",
+    "answer": [
+      "Alexander Fleming",
+      "Marie Curie",
+      "Louis Pasteur",
+      "Edward Jenner"
+    ],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 33,
+    "isAnswered": false,
+    "question": "What is the hardest natural substance on Earth?",
+    "answer": ["Gold", "Iron", "Diamond", "Quartz"],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 34,
+    "isAnswered": false,
+    "question": "Which type of electromagnetic radiation has the shortest wavelength?",
+    "answer": ["Gamma Rays", "X-rays", "Ultraviolet", "Microwaves"],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 35,
+    "isAnswered": false,
+    "question": "What is the primary function of red blood cells?",
+    "answer": [
+      "Fight infection",
+      "Carry oxygen",
+      "Transport nutrients",
+      "Regulate temperature"
+    ],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 36,
+    "isAnswered": false,
+    "question": "Who wrote 'The Origin of Species'?",
+    "answer": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Alfred Wallace",
+      "Jean-Baptiste Lamarck"
+    ],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 37,
+    "isAnswered": false,
+    "question": "What is the unit of electrical resistance?",
+    "answer": ["Volt", "Ampere", "Ohm", "Watt"],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 38,
+    "isAnswered": false,
+    "question": "What is the freezing point of water in Fahrenheit?",
+    "answer": ["32°F", "0°F", "100°F", "212°F"],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 39,
+    "isAnswered": false,
+    "question": "Which part of the human brain controls balance and coordination?",
+    "answer": ["Cerebrum", "Cerebellum", "Brainstem", "Hypothalamus"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 40,
+    "isAnswered": false,
+    "question": "What is the atomic number of carbon?",
+    "answer": ["12", "6", "14", "8"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 41,
+    "isAnswered": false,
+    "question": "Which organ in the human body stores bile?",
+    "answer": ["Liver", "Gallbladder", "Pancreas", "Kidney"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 42,
+    "isAnswered": false,
+    "question": "Which planet has the Great Red Spot?",
+    "answer": ["Saturn", "Jupiter", "Mars", "Neptune"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 43,
+    "isAnswered": false,
+    "question": "What is the study of the universe called?",
+    "answer": ["Astrology", "Astronomy", "Cosmology", "Geology"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 44,
+    "isAnswered": false,
+    "question": "What is the main component of natural gas?",
+    "answer": ["Methane", "Propane", "Butane", "Ethane"],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 45,
+    "isAnswered": false,
+    "question": "Who developed the periodic table?",
+    "answer": [
+      "Dmitri Mendeleev",
+      "John Dalton",
+      "Henry Moseley",
+      "Niels Bohr"
+    ],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 46,
+    "isAnswered": false,
+    "question": "Which ocean is the largest by surface area?",
+    "answer": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctIndexAnswer": 3,
+    "level": 3
+  },
+  {
+    "questionId": 47,
+    "isAnswered": false,
+    "question": "What is the most abundant metal in the Earth's crust?",
+    "answer": ["Iron", "Aluminum", "Copper", "Silicon"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  },
+  {
+    "questionId": 48,
+    "isAnswered": false,
+    "question": "What type of energy is stored in a stretched spring?",
+    "answer": [
+      "Kinetic Energy",
+      "Thermal Energy",
+      "Elastic Potential Energy",
+      "Chemical Energy"
+    ],
+    "correctIndexAnswer": 2,
+    "level": 3
+  },
+  {
+    "questionId": 49,
+    "isAnswered": false,
+    "question": "Which element is a liquid at room temperature?",
+    "answer": ["Mercury", "Iron", "Copper", "Gold"],
+    "correctIndexAnswer": 0,
+    "level": 3
+  },
+  {
+    "questionId": 50,
+    "isAnswered": false,
+    "question": "Which gas do plants primarily use for photosynthesis?",
+    "answer": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "correctIndexAnswer": 1,
+    "level": 3
+  }
+]

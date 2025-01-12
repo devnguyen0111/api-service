@@ -1,0 +1,467 @@
+[
+  {
+    "questionId": 1,
+    "isAnswered": false,
+    "question": "What is the smallest prime number?",
+    "answer": ["0", "1", "2", "3"],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 2,
+    "isAnswered": false,
+    "question": "Which planet is known as the 'Red Planet'?",
+    "answer": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "correctIndexAnswer": 0,
+    "level": 2
+  },
+  {
+    "questionId": 3,
+    "isAnswered": false,
+    "question": "What is the boiling point of water in Celsius?",
+    "answer": ["50°C", "100°C", "150°C", "200°C"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 4,
+    "isAnswered": false,
+    "question": "Which organ in the human body is responsible for pumping blood?",
+    "answer": ["Lungs", "Liver", "Heart", "Brain"],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 5,
+    "isAnswered": false,
+    "question": "Which element has the chemical symbol 'O'?",
+    "answer": ["Gold", "Oxygen", "Osmium", "Opal"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 6,
+    "isAnswered": false,
+    "question": "Who is the author of the 'Harry Potter' book series?",
+    "answer": [
+      "J.K. Rowling",
+      "J.R.R. Tolkien",
+      "George R.R. Martin",
+      "Stephen King"
+    ],
+    "correctIndexAnswer": 0,
+    "level": 2
+  },
+  {
+    "questionId": 7,
+    "isAnswered": false,
+    "question": "Which country has the largest population in the world?",
+    "answer": ["India", "China", "USA", "Indonesia"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 8,
+    "isAnswered": false,
+    "question": "What is the capital city of Australia?",
+    "answer": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 9,
+    "isAnswered": false,
+    "question": "Which is the largest ocean on Earth?",
+    "answer": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctIndexAnswer": 3,
+    "level": 2
+  },
+  {
+    "questionId": 10,
+    "isAnswered": false,
+    "question": "What is the term for animals that only eat plants?",
+    "answer": ["Carnivores", "Herbivores", "Omnivores", "Insectivores"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 11,
+    "isAnswered": false,
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "answer": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 12,
+    "isAnswered": false,
+    "question": "What is the square root of 81?",
+    "answer": ["7", "8", "9", "10"],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 13,
+    "isAnswered": false,
+    "question": "Which famous scientist developed the theory of relativity?",
+    "answer": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Marie Curie"
+    ],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 14,
+    "isAnswered": false,
+    "question": "What is the longest river in the world?",
+    "answer": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 15,
+    "isAnswered": false,
+    "question": "Which planet has the most moons?",
+    "answer": ["Mars", "Saturn", "Jupiter", "Uranus"],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 16,
+    "isAnswered": false,
+    "question": "What is the name of the largest bone in the human body?",
+    "answer": ["Humerus", "Femur", "Tibia", "Radius"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 17,
+    "isAnswered": false,
+    "question": "Which two elements make up water?",
+    "answer": [
+      "Oxygen and Carbon",
+      "Hydrogen and Nitrogen",
+      "Oxygen and Hydrogen",
+      "Carbon and Nitrogen"
+    ],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 18,
+    "isAnswered": false,
+    "question": "How many continents are there on Earth?",
+    "answer": ["5", "6", "7", "8"],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 19,
+    "isAnswered": false,
+    "question": "Who painted the Mona Lisa?",
+    "answer": [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Pablo Picasso"
+    ],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 20,
+    "isAnswered": false,
+    "question": "What is the process by which plants make their food?",
+    "answer": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correctIndexAnswer": 0,
+    "level": 2
+  },
+  {
+    "questionId": 21,
+    "isAnswered": false,
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "answer": ["China", "Japan", "South Korea", "Thailand"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 22,
+    "isAnswered": false,
+    "question": "What is the freezing point of water in Celsius?",
+    "answer": ["0°C", "32°C", "50°C", "-10°C"],
+    "correctIndexAnswer": 0,
+    "level": 2
+  },
+  {
+    "questionId": 23,
+    "isAnswered": false,
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "answer": ["Tiger", "Lion", "Elephant", "Bear"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 24,
+    "isAnswered": false,
+    "question": "Which vitamin is produced by the body when exposed to sunlight?",
+    "answer": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "correctIndexAnswer": 3,
+    "level": 2
+  },
+  {
+    "questionId": 25,
+    "isAnswered": false,
+    "question": "What is the capital of Canada?",
+    "answer": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 26,
+    "isAnswered": false,
+    "question": "What is the chemical formula for table salt?",
+    "answer": ["NaCl", "H2O", "CO2", "KCl"],
+    "correctIndexAnswer": 0,
+    "level": 2
+  },
+  {
+    "questionId": 27,
+    "isAnswered": false,
+    "question": "Which language is the most spoken worldwide?",
+    "answer": ["English", "Spanish", "Mandarin", "Hindi"],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 28,
+    "isAnswered": false,
+    "question": "How many degrees are in a right angle?",
+    "answer": ["30°", "45°", "60°", "90°"],
+    "correctIndexAnswer": 3,
+    "level": 2
+  },
+  {
+    "questionId": 29,
+    "isAnswered": false,
+    "question": "Which U.S. state is known as the 'Sunshine State'?",
+    "answer": ["California", "Florida", "Nevada", "Hawaii"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 30,
+    "isAnswered": false,
+    "question": "What is the currency used in Japan?",
+    "answer": ["Yen", "Won", "Dollar", "Euro"],
+    "correctIndexAnswer": 0,
+    "level": 2
+  },
+  {
+    "questionId": 31,
+    "isAnswered": false,
+    "question": "Which part of the plant conducts photosynthesis?",
+    "answer": ["Root", "Stem", "Leaf", "Flower"],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 32,
+    "isAnswered": false,
+    "question": "What is the capital of Italy?",
+    "answer": ["Paris", "Rome", "Athens", "Madrid"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 33,
+    "isAnswered": false,
+    "question": "Which metal is a liquid at room temperature?",
+    "answer": ["Mercury", "Gold", "Iron", "Aluminum"],
+    "correctIndexAnswer": 0,
+    "level": 2
+  },
+  {
+    "questionId": 34,
+    "isAnswered": false,
+    "question": "Which country gifted the Statue of Liberty to the United States?",
+    "answer": ["Canada", "France", "United Kingdom", "Germany"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 35,
+    "isAnswered": false,
+    "question": "Which scientist is known for the laws of motion?",
+    "answer": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Marie Curie"
+    ],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 36,
+    "isAnswered": false,
+    "question": "What is the largest organ in the human body?",
+    "answer": ["Liver", "Brain", "Heart", "Skin"],
+    "correctIndexAnswer": 3,
+    "level": 2
+  },
+  {
+    "questionId": 37,
+    "isAnswered": false,
+    "question": "Which ocean is the deepest in the world?",
+    "answer": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Southern Ocean"
+    ],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 38,
+    "isAnswered": false,
+    "question": "Which two countries share the longest international border?",
+    "answer": [
+      "USA and Mexico",
+      "Canada and USA",
+      "Russia and China",
+      "India and China"
+    ],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 39,
+    "isAnswered": false,
+    "question": "What does DNA stand for?",
+    "answer": [
+      "Deoxynucleic Acid",
+      "Deoxyribonucleic Acid",
+      "Dioxyribonucleic Acid",
+      "Dioxynucleic Acid"
+    ],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 40,
+    "isAnswered": false,
+    "question": "Which planet is the hottest in the solar system?",
+    "answer": ["Venus", "Mercury", "Mars", "Jupiter"],
+    "correctIndexAnswer": 0,
+    "level": 2
+  },
+  {
+    "questionId": 41,
+    "isAnswered": false,
+    "question": "What is the smallest unit of life?",
+    "answer": ["Cell", "Atom", "Molecule", "Tissue"],
+    "correctIndexAnswer": 0,
+    "level": 2
+  },
+  {
+    "questionId": 42,
+    "isAnswered": false,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answer": [
+      "Charles Dickens",
+      "Jane Austen",
+      "William Shakespeare",
+      "Mark Twain"
+    ],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 43,
+    "isAnswered": false,
+    "question": "Which country is the largest by area?",
+    "answer": ["Canada", "China", "Russia", "USA"],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 44,
+    "isAnswered": false,
+    "question": "What is the hardest natural substance on Earth?",
+    "answer": ["Gold", "Iron", "Diamond", "Graphite"],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 45,
+    "isAnswered": false,
+    "question": "How many bones are there in the human body?",
+    "answer": ["200", "206", "210", "215"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  },
+  {
+    "questionId": 46,
+    "isAnswered": false,
+    "question": "What is the term for a baby frog?",
+    "answer": ["Tadpole", "Froglet", "Larva", "Spawn"],
+    "correctIndexAnswer": 0,
+    "level": 2
+  },
+  {
+    "questionId": 47,
+    "isAnswered": false,
+    "question": "What is the main ingredient in guacamole?",
+    "answer": ["Tomato", "Cucumber", "Avocado", "Pepper"],
+    "correctIndexAnswer": 2,
+    "level": 2
+  },
+  {
+    "questionId": 48,
+    "isAnswered": false,
+    "question": "What does the 'HTTP' in a URL stand for?",
+    "answer": [
+      "Hypertext Transfer Protocol",
+      "Hypertext Transfer Process",
+      "Hyperlink Text Protocol",
+      "Hyperlink Transfer Process"
+    ],
+    "correctIndexAnswer": 0,
+    "level": 2
+  },
+  {
+    "questionId": 49,
+    "isAnswered": false,
+    "question": "Which is the smallest planet in our solar system?",
+    "answer": ["Mercury", "Mars", "Venus", "Pluto"],
+    "correctIndexAnswer": 0,
+    "level": 2
+  },
+  {
+    "questionId": 50,
+    "isAnswered": false,
+    "question": "Which vitamin helps in blood clotting?",
+    "answer": ["Vitamin A", "Vitamin K", "Vitamin C", "Vitamin D"],
+    "correctIndexAnswer": 1,
+    "level": 2
+  }
+]
