@@ -81,17 +81,13 @@ const quizlv3Data = JSON.parse(
 );
 
 app.get("/api/quiz", (req, res) => {
-  const randomIndex = Math.floor(Math.random() * quizData.length);
-  const randomIndexlv1 = Math.floor(Math.random() * quizlv1Data.length);
-  const randomIndexlv2 = Math.floor(Math.random() * quizlv2Data.length);
-  const randomIndexlv3 = Math.floor(Math.random() * quizlv3Data.length);
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json");
   res.json({
-    simplequiz: quizData[randomIndex],
-    quizlvl1: quizlv1Data[randomIndexlv1],
-    quizlvl2: quizlv2Data[randomIndexlv2],
-    quizlvl3: quizlv3Data[randomIndexlv3],
+    simplequiz: quizData,
+    quizlvl1: quizlv1Data,
+    quizlvl2: quizlv2Data,
+    quizlvl3: quizlv3Data,
   });
 });
 
