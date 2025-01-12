@@ -80,14 +80,18 @@ const quizlv3Data = JSON.parse(
   readFileSync(path.resolve("./assets", "quizlv3.json"), "utf-8")
 );
 
+function getRandomItems(arr, num) {
+  const shuffled = arr.sort(() => 0.5 - Math.random());
+  return shuffled.slice(0, num);
+}
+
 app.get("/api/quiz", (req, res) => {
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json");
   res.json({
-    simplequiz: quizData,
-    quizlvl1: quizlv1Data,
-    quizlvl2: quizlv2Data,
-    quizlvl3: quizlv3Data,
+    quizlvl1: getRandomItems(quizlv1Data, 10),
+    quizlvl2: getRandomItems(quizlv2Data, 10),
+    quizlvl3: getRandomItems(quizlv3Data, 10),
   });
 });
 
